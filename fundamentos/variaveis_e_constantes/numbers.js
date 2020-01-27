@@ -10,7 +10,3 @@ console.log(total)                       //imprimindo o total
 console.log(total.toFixed(2))            //imprimindo o total limitando as casas decimais
 console.log(total.toString())            //retornando o total como uma string
 console.log(numero.toString(2))           //retornando o total como binário
-
-console.log("----------------------")
-
-console.log("ascdac")
