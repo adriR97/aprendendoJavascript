@@ -9,4 +9,8 @@ const total = numero + numero2
 console.log(total)                       //imprimindo o total
 console.log(total.toFixed(2))            //imprimindo o total limitando as casas decimais
 console.log(total.toString())            //retornando o total como uma string
-console.log(total.toString(2))           //retornando o total como binário
+console.log(numero.toString(2))           //retornando o total como binário
+
+console.log("----------------------")
+
+console.log("ascdac")
