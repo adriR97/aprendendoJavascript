@@ -1,22 +1,21 @@
 const nome = 'Adriane'
 
-//exemplo de concatenação
+console.log("---------------Exemplo de concatenação---------------")
 const concatenacao = "Olá " + nome + "!"
+console.log(concatenacao)
 
-//exemplo de template
+console.log("\n----------------Exemplo de template------------------")
 /*
     ele considera as quebras de linha e os espaços
 */
 const template = 
 `   Olá     
 ${nome}!`
-
-console.log(concatenacao)
 console.log(template)
 
-//expressões
+console.log("\n---------------------Expressões----------------------")
 console.log(`1 + 1 = ${1+1}`)
 
-//usando uma função dentro do template
+console.log("\n--------Usando uma função dentro do template---------")
 const up = texto => texto.toUpperCase()  
 console.log(`Ei... ${up('cuidado')}!`)
