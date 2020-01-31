@@ -24,4 +24,4 @@ console.log(somaAB(10, 20))
 
 //retorno implícito de uma função arrow de forma mais simples
 const somaAB2 = (a, b) => a + b
-console.log(somaAB2(5, 4))
+console.log(somaAB2(5, 4)) 
