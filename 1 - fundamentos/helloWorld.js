@@ -1,1 +1,1 @@
-concole.log("Olá mundo");
+console.log("Olá mundo");
